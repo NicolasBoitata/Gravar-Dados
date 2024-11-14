@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gravar Dados</string>
+    <string name="text_button_logout">Deslogar</string>
+</resources>
